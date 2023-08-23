@@ -1,0 +1,11 @@
+{
+  "name": "NebulaCoin",
+  "symbol": "NEBC",
+  "image":"https://github.com/cavman76/NebulaPrime/blob/main/epfum.png" ,
+  "description": "NebulaCoin is a nebula themed crypto token that is designed to empower the next generation of innovators.",
+  "uri": "https://github.com/cavman76/NebulaPrime/blob/main/nebulacoin-metadata.json",
+  "creator": "9bB6JYtZzvWxaL7BeWXBTXoyd2WLCJcCdVsexrTAjZvh",
+  "mint": "6gnqUwKEpqWEnk5fMyNRpY2FKk1bD8EBk8Mu9Bp5wTi9",
+  "totalSupply": 2000000000,
+  "decimals": 9
+}
